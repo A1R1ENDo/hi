@@ -1,0 +1,42 @@
+h1 { color: red; }
+p { color: blue; }
+
+
+.sheep {
+color: orange;
+}
+
+.gradient {
+background: linear-gradient(to right , #38a092 , #fdbf3b);
+color: white;
+}
+
+.text-big {
+
+font-size: 24px;
+
+}
+ 
+
+.title {
+
+border: dashed 1px black;
+
+}
+ 
+
+
+.center {
+
+padding: 10px 0;
+
+color: #01558d;
+
+border-top: solid 2px;
+
+border-bottom: solid 2px;
+
+text-align: center;
+
+}
+ 
